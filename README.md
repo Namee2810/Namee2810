@@ -43,4 +43,7 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 ### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
