@@ -6,13 +6,14 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 
 [![Facebook Badge](https://img.shields.io/badge/-namee2810-14A0F9?style=flat-square&labelColor=14A0F9&logo=facebook&logoColor=white)](https://www.facebook.com/namee2810/)
 [![Gmail Badge](https://img.shields.io/badge/-dvn281002-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:dvn281002@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Namee2810.Namee2810)
 
 - 💻 I'm currently working remotely for several projects
 - ✍️ Most used line of code `git commit -m "something"`
 
 <br/>
 
-### Top Technologies
+<h2 style="color: #3EAC7D;">Top Technologies</h2>
 
 <div align="center">
 
@@ -26,21 +27,20 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 
 </div>
 
-<br />
+<h2 style="color: #3EAC7D;">Github Stats</h2>
 
-### Profile Visits 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Namee2810&show_icons=true&theme=vue-dark)](https://github.com/Namee2810/Namee2810)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Namee2810.Namee2810)
 
-<br />
-
-### Github Stats
-
-[![Namee2810's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namee2810&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-### Coding Stats
+<h2 style="color: #3EAC7D;">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Namee2810&theme=vue-dark" alt="Wakatime Stats"/>
+<p>
+
+<p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namee2810&theme=vue-dark&langs_count=10&layout=compact" alt="Top Langs"/>
+<p>
