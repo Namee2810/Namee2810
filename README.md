@@ -19,29 +19,42 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 
 [![React Badge](https://img.shields.io/badge/-Next.JS-000?style=for-the-badge&labelColor=000&logo=next.js&logoColor=fff)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=000&logo=react&logoColor=61DBFB)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=000&logo=typescript&logoColor=3178C6)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=000&logo=javascript&logoColor=F7DF1E)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&labelColor=000&logo=node.js&logoColor=339933)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=000&logo=typescript&logoColor=3178C6)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=000&logo=javascript&logoColor=F7DF1E)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&labelColor=000&logo=node.js&logoColor=339933)](#)
 [![Apollo Badge](https://img.shields.io/badge/-Apollo--GraphQL-311C87?style=for-the-badge&labelColor=000&logo=apollographql&logoColor=311C87)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=000&logo=mongodb&logoColor=47A248)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=000&logo=mongodb&logoColor=47A248)](#)
 
 </div>
 
+<br/>
 <h2 style="color: #3EAC7D;">Github Stats</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Namee2810&show_icons=true&theme=vue-dark)](https://github.com/Namee2810/Namee2810)
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namee2810&theme=vue-dark" alt="GitHub streak"/>
+<p>
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Namee2810&show_icons=true&theme=vue-dark" alt="GitHub stats"/>
+<p>
 
+<p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Namee2810&bg_color=273849&line=fff&color=3EAC7D&point=3EAC7D" alt="GitHub activity graph"/>
+<p>
+
+<br/>
 <h2 style="color: #3EAC7D;">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   39.91 % 
-Markdown     56 mins         ████████▒░░░░░░░░░░░░░░░░   33.66 % 
-Git Config   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-YAML         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-HTML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+TypeScript   1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   39.91 %
+Markdown     56 mins         ████████▒░░░░░░░░░░░░░░░░   33.66 %
+Git Config   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+YAML         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+HTML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p>
