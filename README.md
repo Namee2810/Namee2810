@@ -1,12 +1,12 @@
-<h1 align="center">Hi I'm Nam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">Hi I'm Nnee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 
 ✨ Reach me out!
 
-[![Facebook Badge](https://img.shields.io/badge/-namee2810-14A0F9?style=flat-square&labelColor=14A0F9&logo=facebook&logoColor=white)](https://www.facebook.com/namee2810/)
+[![Facebook Badge](https://img.shields.io/badge/-nnee2810-14A0F9?style=flat-square&labelColor=14A0F9&logo=facebook&logoColor=white)](https://www.facebook.com/nnee2810/)
 [![Gmail Badge](https://img.shields.io/badge/-dvn281002-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:dvn281002@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Namee2810.Namee2810)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nnee2810.nnee2810)
 
 - 💻 I'm currently working remotely for several projects
 - ✍️ Most used line of code `git commit -m "something"`
@@ -31,15 +31,15 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 <h2 style="color: #3EAC7D;">Github Stats</h2>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namee2810&theme=vue-dark" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nnee2810&theme=vue-dark" alt="GitHub streak"/>
 <p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Namee2810&show_icons=true&theme=vue-dark" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nnee2810&show_icons=true&theme=vue-dark" alt="GitHub stats"/>
 <p>
 
 <p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Namee2810&bg_color=273849&line=fff&color=3EAC7D&point=3EAC7D" alt="GitHub activity graph"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=nnee2810&bg_color=273849&line=fff&color=3EAC7D&point=3EAC7D" alt="GitHub activity graph"/>
 <p>
 
 <br/>
@@ -56,9 +56,5 @@ Text         20 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Namee2810&theme=vue-dark" alt="Wakatime Stats"/>
-<p>
-
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namee2810&theme=vue-dark&langs_count=10&layout=compact" alt="Top Langs"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnee2810&theme=vue-dark&langs_count=10&layout=compact" alt="Top Langs"/>
 <p>
