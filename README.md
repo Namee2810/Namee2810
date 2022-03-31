@@ -48,12 +48,12 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 21 hrs 31 mins  ████████████████████░░░░░   80.20 %
-Vue.js                     3 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-SCSS                       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-YAML                       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON                       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Docker                     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript                 16 hrs 14 mins  ████████████████▓░░░░░░░░   66.67 %
+Vue.js                     5 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+SCSS                       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Docker                     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+YAML                       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON                       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
