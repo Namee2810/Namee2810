@@ -48,8 +48,8 @@ I'm Dao Nam a Front-end Developer from Hanoi, Vietnam.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 29 hrs 20 mins  █████████████████████▓░░░   86.93 %
-Other                      2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+TypeScript                 27 hrs 59 mins  █████████████████████▓░░░   86.76 %
+Other                      2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
